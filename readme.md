@@ -1,7 +1,7 @@
 ﻿# RPyRadio
 
 A simple Python 2.7 script to start listening to internet radio stations
-on my [RaspberryPi](http://www.raspberrypi.org/) using using [mpg123](http://www.mpg123.org/)
+on my [RaspberryPi](http://www.raspberrypi.org/) using [mpg123](http://www.mpg123.org/)
 
 ### Start:
 
